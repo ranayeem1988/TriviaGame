@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-image: url("../images/marvel-logo-wallpaper.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
